@@ -1,0 +1,72 @@
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================
+=========== Estoque ===========
+Id.....:1
+Nome...:Informática
+	Id...........:1
+	Nome.........:Monitor
+	Preço........:400
+	Quantidade...:2
+	Id...........:2
+	Nome.........:Teclado
+	Preço........:100
+	Quantidade...:4
+============================================

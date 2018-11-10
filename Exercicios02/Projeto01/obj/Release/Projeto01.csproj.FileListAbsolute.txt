@@ -1,0 +1,10 @@
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\bin\Release\Projeto01.exe.config
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\bin\Release\Projeto01.exe
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\bin\Release\Projeto01.pdb
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\bin\Release\Newtonsoft.Json.dll
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\bin\Release\Newtonsoft.Json.xml
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\obj\Release\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\obj\Release\Projeto01.csproj.CopyComplete
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\obj\Release\Projeto01.exe
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\obj\Release\Projeto01.pdb
+C:\Users\felip\Desktop\WebDeveloper\Exercicios02\Projeto01\obj\Release\Projeto01.csprojAssemblyReference.cache

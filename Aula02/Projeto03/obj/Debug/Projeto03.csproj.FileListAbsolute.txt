@@ -1,0 +1,7 @@
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\bin\Debug\Projeto03.exe.config
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\bin\Debug\Projeto03.exe
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\bin\Debug\Projeto03.pdb
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\obj\Debug\Projeto03.csprojAssemblyReference.cache
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\obj\Debug\Projeto03.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\obj\Debug\Projeto03.exe
+C:\Users\Coti-Maq08\source\repos\Felipe Ferreira\Aula02\Projeto03\obj\Debug\Projeto03.pdb

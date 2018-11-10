@@ -1,0 +1,9 @@
+D:\Projetos\WebDeveloper\Aula06\Projeto01\bin\Debug\App_Data\Banco.mdf
+D:\Projetos\WebDeveloper\Aula06\Projeto01\bin\Debug\App_Data\Banco_log.ldf
+D:\Projetos\WebDeveloper\Aula06\Projeto01\bin\Debug\Projeto01.exe.config
+D:\Projetos\WebDeveloper\Aula06\Projeto01\bin\Debug\Projeto01.exe
+D:\Projetos\WebDeveloper\Aula06\Projeto01\bin\Debug\Projeto01.pdb
+D:\Projetos\WebDeveloper\Aula06\Projeto01\obj\Debug\Projeto01.csprojAssemblyReference.cache
+D:\Projetos\WebDeveloper\Aula06\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+D:\Projetos\WebDeveloper\Aula06\Projeto01\obj\Debug\Projeto01.exe
+D:\Projetos\WebDeveloper\Aula06\Projeto01\obj\Debug\Projeto01.pdb
